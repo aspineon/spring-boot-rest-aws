@@ -1,0 +1,4 @@
+com/springbootrest/MainApp.class
+com/springbootrest/controller/RestController.class
+com/springbootrest/controller/ViewController.class
+com/springbootrest/ServletInitializer.class
