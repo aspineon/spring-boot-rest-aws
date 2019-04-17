@@ -68,3 +68,13 @@ IncludeOptional conf.d/elasticbeanstalk/*.conf
 . The nameservers that are configured w/ bigrock are looked-up and the control gets transferred to the nameserver location i.e. aws.  
 . Route53 of aws comes into picture and then it looks up the hosted zone and its associated recordset and transfers the control to the attached instance, in this case, a elasticbeanstalk instance.  
 . If it is a https request and if the https port is allowed in the inbound rule set for the ec2 instance then it is allowed and the certs are validated and request permitted.        
+
+## Biling Details so far
+. On 16th Apr 2019, 1400 hrs:  
+. Put, Copy, Post, Lists requests: 1036 - 51.8  
+. On 17th Apr 2019, 2000 hrs:   
+. Put, Copy, Post, List req: 1078 - 53.9% : the app was up allthe time  
+. But, Route53 charges was 0.59 USD i.e. 42 INR coz aws charges 0.50 USD per hostedzone for the first 25 hosted zones, so this should be a one time charge.  
+. Keeping the aws running, will check tomorrow again.  
+. Made one query to the url, will see if it changes anything tomorrow.  
+ 
