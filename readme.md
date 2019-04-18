@@ -77,4 +77,6 @@ IncludeOptional conf.d/elasticbeanstalk/*.conf
 . But, Route53 charges was 0.59 USD i.e. 42 INR coz aws charges 0.50 USD per hostedzone for the first 25 hosted zones, so this should be a one time charge.  
 . Keeping the aws running, will check tomorrow again.  
 . Made one query to the url, will see if it changes anything tomorrow.  
- 
+. On 18th Apr, 2019:  
+. Put, Copy, Post, List req: 1078 - 53.9% : app still up  
+. Total bill amt still at 42 INR   
