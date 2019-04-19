@@ -79,4 +79,7 @@ IncludeOptional conf.d/elasticbeanstalk/*.conf
 . Made one query to the url, will see if it changes anything tomorrow.  
 . On 18th Apr, 2019:  
 . Put, Copy, Post, List req: 1078 - 53.9% : app still up  
-. Total bill amt still at 42 INR   
+. Total bill amt still at 42 INR 
+. On 19th Apr, 2019 at 2000 hrs:
+. Put, Copy, Post, List req: 1078 - 53.9% : the app is still up
+. Total billamt still at 42 INR  
