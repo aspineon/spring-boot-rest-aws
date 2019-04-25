@@ -4,6 +4,8 @@
 . This application is deployed as a tomcat application using aws elasticbeanstalk.    
 . war file for this generated using maven.  
 . Further details, as to how route requests for your domain to this app on aws and how to make the request secure are all given below.  
+. This is an real-time bidding application on aws: https://www.slideshare.net/AmazonWebServices/app402?qid=bb0a7b0e-401f-4591-b259-1e35dc23b72a&v=&b=&from_search=24  
+. This is another example: https://www.slideshare.net/AmazonWebServices/dvo312-sony-building-atscale-services-with-aws-elastic-beanstalk?next_slideshow=1  
 
 ## For routing all requests to your domain to aws elasticbeanstalk env:
 Source: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-beanstalk-environment.html
