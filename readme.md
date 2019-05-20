@@ -62,7 +62,7 @@ IncludeOptional conf.d/elasticbeanstalk/*.conf
 . after this you can verify, easiest way to verify by doing a cURL.
 
 ## Note
-. If you terminate your environment in he aws console then the associated certs are removed and you need to install them again.  
+. If you terminate your environment in the aws console then the associated certs are removed and you need to install them again.  
 . These certs expire in 90 days and as far as I know they don't get auto-renewed so you have to renew them again.
 
 ## The flow, how it works:  
